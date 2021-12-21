@@ -26,8 +26,8 @@ public class Main {
             else {
                 System.out.print(i + " ");
             }
-            }
-       // Задание 2
+        }
+        // Задание 2
         System.out.println("Задание 2");
         int fridayFirst = 2;
         for (int fridayToday = fridayFirst; fridayToday <= 30; fridayToday = fridayToday +7) {
@@ -44,7 +44,7 @@ public class Main {
                 System.out.println(i);
             }
         }
-       // Задание 4*
+        // Задание 4*
         System.out.println("Задание 4*");
         for (int i = 1; i <=30; i++) {
             if (i % 3 ==0 && i % 5 == 0) {
