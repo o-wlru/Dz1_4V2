@@ -61,6 +61,7 @@ public class Main {
                 System.out.println(i + ":");
             }
         }
+
         // Задание 5*
         System.out.println("Задание 5*");
         int furstNumber = 0;
